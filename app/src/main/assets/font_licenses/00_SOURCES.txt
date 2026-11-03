@@ -1,0 +1,42 @@
+字体来源与许可
+
+本应用使用系统经典黑体，以及以下 5 款完整、未修改的中文字体。所有新增字体均为 SIL Open Font License 1.1，原始授权和版权全文在后续各 *_OFL.txt 中。字体只从 APK 本地读取，不联网下载。
+
+来源：官方 google/fonts 仓库
+固定提交：6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec
+合计：27,177,904 字节。每款覆盖 GB2312 全部 6,763 个汉字；未进行短语子集裁剪。生僻字及 emoji 根据 Android 系统回退字形显示。
+
+马善政毛笔
+Copyright 2018 The Ma Shan Zheng Project Authors (https://github.com/googlefonts/mashanzheng)
+原始文件：MaShanZheng-Regular.ttf
+来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/mashanzheng/MaShanZheng-Regular.ttf
+许可来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/mashanzheng/OFL.txt
+SHA-256：6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb
+
+站酷小薇
+Copyright 2018 The ZCOOL XiaoWei Project Authors (https://github.com/googlefonts/zcool-xiaowei/)
+原始文件：ZCOOLXiaoWei-Regular.ttf
+来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf
+许可来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolxiaowei/OFL.txt
+SHA-256：a42b620140f493db42f741351dfbf343c0936d58588ee8004b8b2a218d997ff1
+
+站酷快乐
+Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)
+原始文件：ZCOOLKuaiLe-Regular.ttf
+来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf
+许可来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolkuaile/OFL.txt
+SHA-256：812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d
+
+站酷庆科黄油
+Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)
+原始文件：ZCOOLQingKeHuangYou-Regular.ttf
+来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf
+许可来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolqingkehuangyou/OFL.txt
+SHA-256：54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136
+
+龙藏草书
+Copyright 2018 The Long Cang Project Authors (https://github.com/googlefonts/longcang)
+原始文件：LongCang-Regular.ttf
+来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/longcang/LongCang-Regular.ttf
+许可来源：https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/longcang/OFL.txt
+SHA-256：e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc

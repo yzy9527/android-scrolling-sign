@@ -1,0 +1,57 @@
+[
+  {
+    "resource_id": "ma_shan_zheng",
+    "original_file": "MaShanZheng-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/mashanzheng/OFL.txt",
+    "bytes": 5857936,
+    "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+    "cmap_entries": 7015,
+    "cjk_unified_ideographs": 6763,
+    "missing_sample": ""
+  },
+  {
+    "resource_id": "zcool_xiao_wei",
+    "original_file": "ZCOOLXiaoWei-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolxiaowei/OFL.txt",
+    "bytes": 6313808,
+    "sha256": "a42b620140f493db42f741351dfbf343c0936d58588ee8004b8b2a218d997ff1",
+    "cmap_entries": 7016,
+    "cjk_unified_ideographs": 6763,
+    "missing_sample": ""
+  },
+  {
+    "resource_id": "zcool_kuai_le",
+    "original_file": "ZCOOLKuaiLe-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolkuaile/OFL.txt",
+    "bytes": 1514968,
+    "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+    "cmap_entries": 7053,
+    "cjk_unified_ideographs": 6766,
+    "missing_sample": ""
+  },
+  {
+    "resource_id": "zcool_qing_ke_huang_you",
+    "original_file": "ZCOOLQingKeHuangYou-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/zcoolqingkehuangyou/OFL.txt",
+    "bytes": 8328684,
+    "sha256": "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136",
+    "cmap_entries": 9429,
+    "cjk_unified_ideographs": 9176,
+    "missing_sample": ""
+  },
+  {
+    "resource_id": "long_cang",
+    "original_file": "LongCang-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/longcang/LongCang-Regular.ttf",
+    "license_source": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/longcang/OFL.txt",
+    "bytes": 5162508,
+    "sha256": "e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc",
+    "cmap_entries": 7015,
+    "cjk_unified_ideographs": 6763,
+    "missing_sample": ""
+  }
+]

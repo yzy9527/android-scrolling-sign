@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- No device or network permissions. AndroidX may merge an internal signature permission. -->
+    <application android:allowBackup="false" android:fullBackupContent="false" android:dataExtractionRules="@xml/data_extraction_rules" android:label="本地大字看板"
+        android:icon="@drawable/ic_sign" android:supportsRtl="true" android:theme="@style/Theme.LocalSign">
+        <!-- Removal marker, not a runtime class reference. Startup is runtime-only in AndroidX;
+             suppress source-only lint on this marker and verify the merged APK has no provider. -->
+        <provider android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            tools:node="remove" tools:ignore="MissingClass" />
+        <activity android:name=".DisplayActivity" android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
